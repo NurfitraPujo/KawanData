@@ -27,7 +27,7 @@ class User extends Authenticatable
         'handphone_number',
         'is_admin',
         'email_verified_at',
-        'fb_id'
+        'fb_id',
         'is_join'
     ];
 
